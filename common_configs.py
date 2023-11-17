@@ -11,7 +11,7 @@ Mute_all = input("Bind key to " "  mute all ")
 # Disable_autohelp = input("Disable auto help? Y/N")
 # Set_max_allowable_ping = input("Max allowable ping " " ")
 
-
+#need to fix so the print after each one is entered
 
 if sneaky_mode == "Y":
     print("ON")
