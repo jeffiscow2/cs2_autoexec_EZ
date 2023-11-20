@@ -1,4 +1,4 @@
-# varibals for common configs
+# variables for common configs
 
 sneaky_mode = input("Turn on sneaky mode? Y/N ")
 Mute_all = input("Bind key to " "  mute all ")
